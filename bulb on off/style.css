@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+}
+.off {
+    height: 300px;
+    background: url(off.jpg) no-repeat;
+    margin-left: 602px;
+    transition: 0.2s;
+}
+.on {
+    height: 300px;
+    background: url(on.jpg) no-repeat;
+    margin-left: 600px;
+    transition: 0.2s;
+}
